@@ -10,7 +10,6 @@ public class sum {
         while (firstDigit >= 10) {
             firstDigit /= 10;
         }
-        int sum = firstDigit + lastDigit;
         System.out.println("Sum = " + sum);
     }
 }
