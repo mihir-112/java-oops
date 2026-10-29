@@ -46,7 +46,7 @@ class Result extends Student {
 
 public class program3 {
     public static void main(String[] args) {
-        Result s = new Result("Rahul", 20, "1AB23CS101", 85);
+        Result s = new Result("Mihir", 20, "4NI25CS112", 85);
         s.display();
     }
 }
