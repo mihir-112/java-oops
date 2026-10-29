@@ -31,7 +31,7 @@ class Developer extends Employee {
 
 public class program1 {
     public static void main(String[] args) {
-        Developer d = new Developer(101, "Rahul", 30000);
+        Developer d = new Developer(101, "Mihir", 50000);
         d.display();
     }
 }
